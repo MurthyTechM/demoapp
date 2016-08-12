@@ -5,14 +5,14 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Spring 4 MVC - HelloJenkins Internal demo</title>
+<title>Spring 4 MVC - HelloJenkins</title>
 </head>
 <body>
  
 	<center>
 		<h2>Hello This is Demo application with (Maven&Tomcat Build)</h2>
 		<h3>
-			<a href="hello?name=!Thanks Tech Mahindra">Click Thanks</a>
+			<a href="hello?name=!Thanks Tech Mahindra">Tech Mahindra</a>
 		</h3>
 	</center>
 </body>
