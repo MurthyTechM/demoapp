@@ -1,4 +1,4 @@
-# Welcome Application [![Build Status](http://54.210.133.102:8080/buildStatus/icon?job=demo_tomcat)](http://52.91.55.80:8080/job/demo_tomcat/)
+# Welcome Application [![Build Status](http://54.173.3.188:8080/buildStatus/icon?job=HelloApp)](http://54.173.3.188:8080/job/HelloApp)
 
 **Webserver:** Apache Tomcat 7.0
 
