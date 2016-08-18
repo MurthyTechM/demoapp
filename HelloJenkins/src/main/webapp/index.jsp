@@ -10,7 +10,7 @@ pageEncoding="ISO-8859-1"%>
 <body>
  
 	<center>
-		<h2>Hello This is Demo application with (Maven&Tomcat Build)</h2>
+		<h2>Live Demo application with (Maven&Tomcat Build)</h2>
 		<h3>
 			<a href="hello?name=!Thanks Tech Mahindra">Tech Mahindra</a>
 		</h3>
