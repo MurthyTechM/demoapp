@@ -7,7 +7,7 @@
 </head>
 <body>
 	<center>
-		<h2>Hello Jenkins2</h2>
+		<h2>Hello Jenkins Demo2</h2>
 		<h2>
 			${message} ${name}
 		</h2>
